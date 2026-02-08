@@ -1,25 +1,27 @@
 {
-    "name": "Sagar Yaragoppa AI   ",
-    "email": "sagaryaragoppa00@gmail.com",
+    "name": "Ajay Pandey AI   ",
+    "email": "ajayi07@gmail.com",
+    "phone": "8767532087",
     "skills": [
-        "matplotlib",
-        "computer vision",
-        "react",
-        "go",
-        "r",
-        "numpy",
-        "javascript",
-        "python",
-        "css",
-        "github",
-        "php",
         "machine learning",
         "html",
-        "sql",
-        "artificial intelligence",
+        "computer vision",
+        "react",
+        "javascript",
         "git",
-        "java",
         "pandas",
-        "c"
+        "artificial intelligence",
+        "css",
+        "github",
+        "matplotlib",
+        "sql",
+        "python",
+        "numpy"
+    ],
+    "education": [
+        "bachelor of technology  b.tech  in artificial intelligence   machine learning  2023   2027  college of engineering pune 411045 currently in 3rd year"
+    ],
+    "experience": [
+        "3 month intership at weintern"
     ]
 }
